@@ -1,7 +1,0 @@
-valasz = input("Jó napja van-e? (igen/nem): ")
-if valasz.lower() == "igen":
-    print("Örülök, hogy jó napja van!")
-elif valasz.lower() == "nem":
-    print("Remélem, hogy a napja hamarosan jobb lesz!")
-else:
-    print("Sajnos nem értem a válaszodat.")
